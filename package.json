@@ -2,7 +2,7 @@
   "name": "appiconannotater",
   "version": "1.0.0",
   "description": "Annotate iOS app icons.",
-  "main": "appiconannotater.js",
+  "preferGlobal": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
