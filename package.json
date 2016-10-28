@@ -1,0 +1,15 @@
+{
+  "name": "appiconannotater",
+  "version": "1.0.0",
+  "description": "Annotate iOS app icons.",
+  "main": "appiconannotater.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simon B. Støvring",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "gm": "^1.23.0"
+  }
+}
