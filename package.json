@@ -12,7 +12,9 @@
     "appiconannotater": "appiconannotater.js"
   },
   "dependencies": {
+    "async": "^2.1.2",
     "commander": "^2.9.0",
-    "gm": "^1.23.0"
+    "gm": "^1.23.0",
+    "recursive-readdir": "^2.1.0"
   }
 }
