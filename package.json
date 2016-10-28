@@ -1,5 +1,5 @@
 {
-  "name": "appiconannotater",
+  "name": "appiconannotator",
   "version": "1.0.0",
   "description": "Annotate iOS app icons.",
   "preferGlobal": true,
@@ -9,7 +9,7 @@
   "author": "Simon B. Støvring",
   "license": "ISC",
   "bin": {
-    "appiconannotater": "appiconannotater.js"
+    "appiconannotater": "appiconannotator.js"
   },
   "dependencies": {
     "async": "^2.1.2",
