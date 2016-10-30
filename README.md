@@ -41,7 +41,7 @@ appiconannotator annotate -i appicon.png -o annotated_appicon.png --top-text "1.
 Scan for app icons in the directory and write on all icons found.
 
 ```bash
-ppiconannotator annotate-all -i . --top-text "1.0 (14)" --bottom-text "feature/swift3"
+appiconannotator annotate-all -i . --top-text "1.0 (14)" --bottom-text "feature/swift3"
 ```
 
 | **Option** | **Description**
