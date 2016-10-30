@@ -25,16 +25,16 @@ appiconannotator annotate -i appicon.png -o annotated_appicon.png --top-text "1.
 | **Option** | **Description**
 |-|-|
 | -h, --help | output usage information |
-| -i, --input \<file\> | input app icon to write on |
-| -o, --output \<file\> | output destination to save the resulting app icon |
-| --top-text \<str\> | text rendered in the top |
-| --bottom-text \<str\> | text rendered in the bottom |
-| --top-font-size \<int\> | size of the text in the top |
-| --top-text-color \<hex\> | color of the text rendered in the top |
-| --top-background-color \<hex\> | background color the text rendered in the top |
-| --bottom-font-size \<int\> | size of the text in the bottom |
-| --bottom-text-color \<hex\> | color of the text rendered in the bottom |
-| --bottom-background-color \<hex\> | background color the text rendered in the bottom |
+| -i, --input <file> | input app icon to write on |
+| -o, --output <file> | output destination to save the resulting app icon |
+| --top-text <str> | text rendered in the top |
+| --bottom-text <str> | text rendered in the bottom |
+| --top-font-size <int> | size of the text in the top |
+| --top-text-color <hex> | color of the text rendered in the top |
+| --top-background-color <hex> | background color the text rendered in the top |
+| --bottom-font-size <int> | size of the text in the bottom |
+| --bottom-text-color <hex> | color of the text rendered in the bottom |
+| --bottom-background-color <hex> | background color the text rendered in the bottom |
 
 #### annotate-all
 
@@ -47,14 +47,14 @@ ppiconannotator annotate-all -i . --top-text "1.0 (14)" --bottom-text "feature/s
 | **Option** | **Description**
 |-|-|
 | -h, --help | output usage information |
-| -i, --input \<dir\> | directory to scan for app icons |
-| --top-text \<str\> |  text rendered in the top |
-| --bottom-text \<str\> | text rendered in the bottom |
-| --top-font-size \<int\> | size of the text in the top |
-| --top-text-color \<hex\> | color of the text rendered in the top |
-| --top-background-color \<hex\> | background color the text rendered in the top |
-| --bottom-font-size \<int\> | size of the text in the bottom |
-| --bottom-text-color \<hex\> | color of the text rendered in the bottom |
-| --bottom-background-color \<hex\> | background color the text rendered in the bottom |
+| -i, --input <dir> | directory to scan for app icons |
+| --top-text <str> |  text rendered in the top |
+| --bottom-text <str> | text rendered in the bottom |
+| --top-font-size <int> | size of the text in the top |
+| --top-text-color <hex> | color of the text rendered in the top |
+| --top-background-color <hex> | background color the text rendered in the top |
+| --bottom-font-size <int> | size of the text in the bottom |
+| --bottom-text-color <hex> | color of the text rendered in the bottom |
+| --bottom-background-color <hex> | background color the text rendered in the bottom |
 
 
