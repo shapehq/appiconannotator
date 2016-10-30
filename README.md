@@ -6,7 +6,9 @@ Annotates app icons with a text in the top and/or bottom. Works well with the `a
 
 Install using [npm](http://npmjs.com).
 
-```bash
+```
+#!bash
+
 npm install -g git+ssh://git@bitbucket.org:shapedk/appiconannotator.git
 ```
 
@@ -18,7 +20,9 @@ appiconannotator supports the following two commands for annotating app icons. F
 
 Write text on the input app icon.
 
-```bash
+```
+#!bash
+
 appiconannotator annotate -i appicon.png -o annotated_appicon.png --top-text "1.0 (14)" --bottom-text "feature/swift3"
 ```
 
@@ -40,7 +44,9 @@ appiconannotator annotate -i appicon.png -o annotated_appicon.png --top-text "1.
 
 Scan for app icons in the directory and write on all icons found.
 
-```bash
+```
+#!bash
+
 appiconannotator annotate-all -i . --top-text "1.0 (14)" --bottom-text "feature/swift3"
 ```
 
@@ -56,5 +62,3 @@ appiconannotator annotate-all -i . --top-text "1.0 (14)" --bottom-text "feature/
 | --bottom-font-size <int> | size of the text in the bottom |
 | --bottom-text-color <hex> | color of the text rendered in the bottom |
 | --bottom-background-color <hex> | background color the text rendered in the bottom |
-
-
