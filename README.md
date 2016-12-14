@@ -2,6 +2,10 @@
 
 Annotates app icons with a text in the top and/or bottom. Works well with the `annotate_app_icons` action for Fastlane as described in [fastlane-plugin-shapelane](https://bitbucket.org/shapedk/fastlane-plugin-shape/overview).
 
+## Dependencies
+
+- appiconannotator depends on [ImageMagick](https://www.imagemagick.org/script/index.php). Install it by running `brew install imagemagick`.
+
 ## Installation
 
 Install using [npm](http://npmjs.com).
