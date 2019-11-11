@@ -4,7 +4,8 @@ Annotates app icons with a text in the top and/or bottom. Works well with the `a
 
 ## Dependencies
 
-- appiconannotator depends on [ImageMagick](https://www.imagemagick.org/script/index.php). Install it by running `brew install imagemagick`.
+- Install [ImageMagick](https://www.imagemagick.org/script/index.php) by running `brew install imagemagick`.
+- Install [Ghostscript](https://www.ghostscript.com) by rynning `brew install ghostscript`.
 
 ## Installation
 
