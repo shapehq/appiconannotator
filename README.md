@@ -14,7 +14,7 @@ Install using [npm](http://npmjs.com).
 ```
 #!bash
 
-npm install -g git+ssh://git@bitbucket.org:shapedk/appiconannotator.git
+npm install -g git+ssh://git@github.com:shapehq/appiconannotator.git
 ```
 
 ## Usage
