@@ -1,6 +1,6 @@
 # appiconannotator
 
-Annotates app icons with a text in the top and/or bottom. Works well with the `annotate_app_icons` action for Fastlane as described in [fastlane-plugin-shapelane](https://github.com/shapehq/fastlane-plugin-shapelane).
+Annotates app icons with a text in the top and/or bottom.
 
 ## Dependencies
 
