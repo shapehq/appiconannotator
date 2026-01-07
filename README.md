@@ -15,6 +15,8 @@ Install using [npm](http://npmjs.com).
 npm install -g git+ssh://git@github.com:shapehq/appiconannotator.git
 ```
 
+You can also install it in GitHub Actions using the [install-appiconannotator](https://github.com/shapehq/actions/tree/main/install-appiconannotator) action.
+
 ## Usage
 
 appiconannotator supports the following two commands for annotating app icons. For more information about the commands, run `appiconannotator [command] --help`.
